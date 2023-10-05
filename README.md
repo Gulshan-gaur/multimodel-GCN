@@ -8,6 +8,7 @@ Welcome to my collection of publications spanning various fields. Below, you'll 
    - *Authors*: Sharma G. et al.
    - *Conference*: International Conference on Computer, Electronics and Electrical Engineering and Their Applications (IC2E3 2023)
    - *Year*: 2023
+   -  [🔗 Link to Article](https://doi.org/10.1109/IC2E357697.2023.10262764)
 
 2. **Silicosis Detection using Extended Transfer Learning Model**
    - *Authors*: Sharma G., Harjule P.
