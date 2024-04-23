@@ -14,6 +14,7 @@ Welcome to my collection of publications spanning various fields. Below, you'll 
    - *Authors*: Sharma G., Harjule P.
    - *Conference*: 6th International Conference on Recent Trends in Image Processing & Pattern Recognition (RTPI2R) 2023
    - *Year*: 2023
+   - [🔗link to Article](https://doi.org/10.1007/978-3-031-53085-2_10)
 
 ## 📝 **Journal Articles**
 
@@ -22,9 +23,9 @@ Welcome to my collection of publications spanning various fields. Below, you'll 
    - *Journal*: [Communicated IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI)]
    - *Year*: 2023
 
-4. **NAUniSeq: A Phylogeny Inspired Computational Algorithm to find Unique Sequences for Microbial Diagnostics**
+4. **Advancing Microbial Diagnostics: A Universal Phylogeny Guided Computational Algorithm to find Unique Sequences for Precise Microorganism Detection**
    - *Authors*: Gulshan Sharma, Rakesh Sharma. et al.
-   - *Journal*: [Communicated [Bioinformatics](https://academic.oup.com/bioinformatics)]
+   - *Journal*: [Accepted [Bioinformatics](https://academic.oup.com/bioinformatics)]
    - *Year*: 2023
 
 5. **A universal sustainable agriculture approach for the large-scale manufacturing of nano-fertilizers utilizing mineral ores**
