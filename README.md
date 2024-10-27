@@ -25,7 +25,7 @@ Welcome to my collection of publications spanning various fields. Below, you'll 
 
 4. **Advancing Microbial Diagnostics: A Universal Phylogeny Guided Computational Algorithm to find Unique Sequences for Precise Microorganism Detection**
    - *Authors*: Gulshan Sharma, Rakesh Sharma. et al.
-   - *Journal*: [Accepted [Bioinformatics](https://academic.oup.com/bioinformatics)]
+   - *Journal*: [Accepted [Briefings in Bioinformatics]([https://academic.oup.com/bioinformatics](https://academic.oup.com/bib/article/25/6/bbae545/7832362))]
    - *Year*: 2023
 
 5. **A universal sustainable agriculture approach for the large-scale manufacturing of nano-fertilizers utilizing mineral ores**
